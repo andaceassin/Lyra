@@ -140,3 +140,8 @@ github_repo = "DoL-Lyra/Cheat"
 key = "csd"
 feature_id = "cheat_csd"
 github_repo = "DoL-Lyra/CombatStatusDisplay"
+
+[[base_mods]]
+key = "robin"
+feature_id = "robin"
+github_repo = "ZeroRing233/Degrees-of-Lewdity-RobinMod"
