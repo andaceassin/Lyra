@@ -114,6 +114,15 @@ depends_on = []
 conflicts_with = []
 
 [[features]]
+id = "robin"
+name = "DomRobin模组"
+bit = 2
+required = false
+skip = false
+depends_on = []
+conflicts_with = []
+
+[[features]]
 id = "besc"
 name = "BESC"
 bit = 1
