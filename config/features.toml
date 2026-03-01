@@ -115,7 +115,7 @@ conflicts_with = []
 
 [[features]]
 id = "robin"
-name = "DomRobin模组"
+name = "robin"
 bit = 2
 required = false
 skip = false
